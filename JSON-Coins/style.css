@@ -1,0 +1,39 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+h1 {
+    padding-top: 10px;
+    margin-bottom: 40px;
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+/* .coin {
+    margin: 0 auto;
+    border: 1px solid gold;
+    background-color: lightyellow;
+    width: 250px;
+    height: 250px;
+    border-radius: 190px;
+    margin-bottom: 10px;
+} */
+
+.coin {
+    display: inline-block;
+    margin: 0 auto;
+    border: 1px solid gold;
+    background-color: lightyellow;
+    width: 250px;
+    height: 250px;
+    border-radius: 190px;
+    margin-bottom: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.coin h3 {
+    margin-top: 25%;
+}
